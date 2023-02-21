@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Puzzle_Main
+  - Puzzle_Background
   layers:
   - Default
   - TransparentFX
