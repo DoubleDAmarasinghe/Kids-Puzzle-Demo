@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_JigsawPuzzle_Kit/MainMenu.unity
+    guid: 8d1e3da9f24b34ed6b2fa6c81af6f966
+  - enabled: 1
+    path: Assets/_JigsawPuzzle_Kit/Puzzle_Classic_Smooth.unity
+    guid: 7de75937d515b43d8adbb5b404c0c993
   m_configObjects: {}
