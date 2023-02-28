@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 780.8
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 28
+  controlID: 59
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 16
+  controlID: 91
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 17
+  controlID: 92
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -354,13 +354,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/_JigsawPuzzle_Kit
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\Envision\Again\New folder\Kids Puzzle\KidsPuzzle
+  m_LastProjectPath: E:\Envision\test\Kids-Puzzle-Demo
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 205d0000
-    m_LastClickedID: 23840
+    m_SelectedIDs: 1c5d0000
+    m_LastClickedID: 23836
     m_ExpandedIDs: 00000000145d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -416,7 +416,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -517,9 +517,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 1c5d0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 38fbffff
+      m_ExpandedIDs: bad3ffff0ce8ffff84f1ffff14faffff38fbffffb45d0000de5d00001a5e0000945f0000ae600000f0600000366100006e610000a6610000d4610000e261000012620000426500006c650000a8650000346b0000786b0000966d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -768,9 +768,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 144.02422, y: 371.9246, z: 87.45779}
+    m_Target: {x: 595.3548, y: 250.51134, z: 113.24028}
     speed: 2
-    m_Value: {x: 160.57314, y: 369.52698, z: 87.635895}
+    m_Value: {x: 595.3548, y: 250.51134, z: 113.24028}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -821,9 +821,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 413.60675
+    m_Target: 330.808
     speed: 2
-    m_Value: 395.79593
+    m_Value: 330.808
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -899,8 +899,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -459.4
     m_HBaseRangeMax: 459.4
-    m_VBaseRangeMin: -210.3
-    m_VBaseRangeMax: 210.3
+    m_VBaseRangeMin: -199.8
+    m_VBaseRangeMax: 199.8
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -917,11 +917,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 0
+      y: 21
       width: 918.80005
-      height: 420.6
+      height: 399.6
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 459.40002, y: 210.3}
+    m_Translation: {x: 459.40002, y: 199.8}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -929,9 +929,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -459.40002
-      y: -210.3
+      y: -199.8
       width: 918.80005
-      height: 420.6
+      height: 399.6
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1148.5, y: 525.75}

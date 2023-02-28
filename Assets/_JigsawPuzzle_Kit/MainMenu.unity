@@ -1328,13 +1328,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: a2d146ff03e3c4149bb9fc501bbf8683, type: 3}
-    m_FontSize: 85
+    m_Font: {fileID: 12800000, guid: 03d490987a23deb41a59c96cb6b0b41c, type: 3}
+    m_FontSize: 65
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 6
     m_MaxSize: 85
-    m_Alignment: 7
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -2083,19 +2083,19 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: a2d146ff03e3c4149bb9fc501bbf8683, type: 3}
-    m_FontSize: 85
+    m_Font: {fileID: 12800000, guid: 03d490987a23deb41a59c96cb6b0b41c, type: 3}
+    m_FontSize: 65
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 0
     m_MaxSize: 85
-    m_Alignment: 7
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Gra\u0107"
+  m_Text: Zagraj
 --- !u!222 &1552165005
 CanvasRenderer:
   m_ObjectHideFlags: 0
